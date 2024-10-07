@@ -4,4 +4,8 @@
 怎么提交不了呀呀呀呀！
 commit to branch1
 
+<<<<<<< HEAD
 add one sentence
+=======
+change one sentence
+>>>>>>> 6c4eeeb389bb522cb19c16f782cf48590a31037d
